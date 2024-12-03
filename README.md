@@ -35,10 +35,10 @@ pip install psutil
 ## Usage
 Clone the repository:
 ```
-git clone https://github.com/archescyber/packet-sniffer.git
+git clone https://github.com/archescyber/Packet-Sniffer.git
 ```
 ```
-cd packet-sniffer
+cd Packet-Sniffer
 ```
 Run the script:
 ```
